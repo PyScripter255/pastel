@@ -1,15 +1,15 @@
-#crayon
+#pastel
 ##super-colored connect logging middlware
 ##Installation
 ```
-npm install crayon
+npm install pastel
 ```
 ##Usage
 ```javascript
-var crayon = require("crayon"),
+var pastel = require("pastel"),
 connect = require("connect");
 
 var app = connect();
 
-app.use(crayon.log());
+app.use(pastel.log());
 ```

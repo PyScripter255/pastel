@@ -1,10 +1,10 @@
 {
-  "name": "crayon",
+  "name": "pastel",
   "version": "0.0.1",
   "description": "super-colored connect logging middlware",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/mocha --reporter spec"
+    "test": "node test/test.js"
   },
   "repository": "",
   "keywords": [
@@ -12,6 +12,9 @@
     "connect",
     "logging"
   ],
+  "dependencies": {
+	"colors": "*"
+	},
   "author": "PyScripter255",
   "license": "MIT"
 }
