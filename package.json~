@@ -1,0 +1,17 @@
+{
+  "name": "crayon",
+  "version": "0.0.1",
+  "description": "Colorful connect logging middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha --reporter spec"
+  },
+  "repository": "",
+  "keywords": [
+    "colors",
+    "connect",
+    "logging"
+  ],
+  "author": "PyScripter255",
+  "license": "MIT"
+}
