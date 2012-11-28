@@ -38,3 +38,13 @@ You can set them to any of the following color or style strings (from [colors](h
 * rainbow
 * zebra
 * random
+
+###Example Config
+```javascript
+app.use(pastel.log({
+	date: "yellow",
+	time: "cyan",
+	method: "magenta",
+	url: "red"
+});
+```
