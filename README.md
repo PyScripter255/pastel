@@ -46,5 +46,5 @@ app.use(pastel.log({
 	time: "cyan",
 	method: "magenta",
 	url: "red"
-});
+}));
 ```
