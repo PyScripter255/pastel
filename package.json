@@ -1,6 +1,6 @@
 {
   "name": "pastel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "super-colored connect logging middlware",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,6 @@
   "dependencies": {
 	"colors": "*"
 	},
-  "author": "PyScripter255",
+  "author": "James A. Eschrich",
   "license": "MIT"
 }
