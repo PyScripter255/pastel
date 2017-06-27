@@ -1,10 +1,10 @@
-#pastel
-##super-colored connect logging middlware
-##Installation
+# pastel
+## super-colored connect logging middlware
+## Installation
 ```
 npm install pastel
 ```
-##Usage
+## Usage
 ```javascript
 var pastel = require("pastel"),
 connect = require("connect");
